@@ -11,21 +11,31 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Accountable, Transparent and Responsible Artificial Intelligence
       institution: University of Bath, Bath, UK
-      year: 2025
+      year: 2022 - 2025
       description:
         - Characterising the value alignment process between humans and AI based on research to date.
         - Developing methods of value-based evaluation of options using argumentation frameworks.
         - Automated construction of value models using large language models.
+
+    - title: MRes in Artificial Intelligence
+      institution: University of Bath, Bath, UK
+      year: 2021 - 2022
+      description:
+        - Awarded Distinction
         
     - title: MSc Modern Applications of Mathematics
       institution: University of Bath, Bath, UK
       year: 2020 - 2021
+      description:
+        - Awarded Distinction
 
     - title: BSc Mathematics and its Applications
       institution: Cardiff University, Cardiff, UK
       year: 2013 - 2015
+      description:
+        - Awarded Uppper Second Class Honours
 
 - title: Experience
   type: time_table
@@ -54,7 +64,6 @@
       description:
         - Provided analysis to business stakeholders, developed and implemented actuarial models, and ensured data quality and model accuracy through testing and validation.
       
-
 - title: Academic Interests
   type: nested_list
   contents:
