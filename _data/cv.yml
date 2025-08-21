@@ -69,17 +69,14 @@
   contents:
     - title: Value Alignment in AI
       items: 
-        - Representing human values in AI decision-making.
+        - Modelling human values in AI decision-making.
         - Neural-symbolic approaches to value alignment.
         - Value aggregation in decision-making.
-    - title: AI Safety & Ethics
+    - title: AI in Society
       items:
-        - Safe deployment of AI in an egailitarian way.
+        - Human augmentation and empowerment with AI.
+        - Safe, egailitarian deployment of AI.
         - Governance challenges and strategies for mitigating harms of AI.
-    - title: Psychology Concepts Applied to AI
-      items:
-        - Modelling concept spaces.
-        - Socialisation of AI.
 
 - title: Other Interests
   type: list
