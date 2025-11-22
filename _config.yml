@@ -193,8 +193,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
-  - vendor  
-  - _news/announcement_*.md
+  - vendor
   - _pages/projects.md
   - _posts/
   - _projects/?_project.md

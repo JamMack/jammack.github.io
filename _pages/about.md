@@ -26,6 +26,8 @@ latest_posts:
 
 Welcome to my website!
 
-I am a final-year computer science PhD researcher at the [University of Bath's Accountable, Responsible and Transparent AI Centre for Doctoral Training](https://cdt-art-ai.ac.uk/). My research focuses on value alignment in AI: ensuring AI systems make decisions that support human values. I develop neurosymbolic methods that combine computational and psychological approaches to extract, model, and audit value constructs in both human and AI decision-making.
+I am a final-year computer science PhD researcher at the [University of Bath's Accountable, Responsible and Transparent AI Centre for Doctoral Training](https://cdt-art-ai.ac.uk/). My research develops practical methods for value alignment in AI—ensuring AI systems make decisions that support human values in real-world deployment contexts.
 
-I hold a master's in applied mathematics from the University of Bath and have five years of experience in finance and defence, bringing practical perspective to AI safety research.
+I take a neurosymbolic approach that bridges computational methods (argumentation frameworks and large language models) with psychological theory, enabling auditable AI systems that can extract values from policy documents and model human decision-making processes. My work has been published in the Journal of Artificial Intelligence Research, with additional papers presented at workshops and conferences including the Value Engineering in AI workshop at ECAI.
+
+Beyond technical research, I actively engage with AI policy and governance. I have contributed to United Nations consultations on AI governance, collaborate internationally with researchers at Umeå University, and organized a workshop on peer review in the age of large language models. Before my PhD, I spent five years in finance and defence, giving me practical insight into deploying AI systems in high-stakes, regulated environments.
