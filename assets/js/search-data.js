@@ -30,7 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{
+        },{id: "news-presented-my-paper-value-extraction-from-policy-text-with-large-language-models-at-the-value-engineering-in-ai-workshop-vale-at-ecai-2025-in-bologna-italy",
+          title: 'Presented my paper “Value Extraction from Policy Text with Large Language Models” at...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-my-survey-paper-understanding-the-process-of-human-ai-value-alignment-has-been-accepted-for-publication-in-the-journal-of-ai-research-jair",
+          title: 'Excited to share that my survey paper “Understanding the Process of Human-AI Value...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
