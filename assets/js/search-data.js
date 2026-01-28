@@ -37,7 +37,7 @@ ninja.data = [{
           title: 'Excited to share that my paper “Understanding the Process of Human-AI Value Alignment”...',
           description: "",
           section: "News",},{id: "news-very-pleased-to-announce-that-i-have-submitted-my-phd-thesis-titled-cava-for-value-alignment-a-neuro-symbolic-framework-from-text-to-decisions",
-          title: 'Very pleased to announce that I have submitted my PhD thesis, titled ‘CAVA...',
+          title: 'Very pleased to announce that I have submitted my PhD thesis, titled “CAVA...',
           description: "",
           section: "News",},{
         id: 'social-email',
