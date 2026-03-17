@@ -39,6 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-very-pleased-to-announce-that-i-have-submitted-my-phd-thesis-titled-cava-for-value-alignment-a-neuro-symbolic-framework-from-text-to-decisions",
           title: 'Very pleased to announce that I have submitted my PhD thesis, titled “CAVA...',
           description: "",
+          section: "News",},{id: "news-i-have-successfully-passed-my-phd-viva-with-no-corrections",
+          title: 'I have successfully passed my PhD viva with no corrections!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
