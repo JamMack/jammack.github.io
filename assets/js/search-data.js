@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "news-presented-my-paper-value-extraction-from-policy-text-with-large-language-models-at-the-value-engineering-in-ai-workshop-vale-at-ecai-2025-in-bologna-italy",
-          title: 'Presented my paper “Value Extraction from Policy Text with Large Language Models” at...',
+          title: 'Presented my paper ‘Value Extraction from Policy Text with Large Language Models’ at...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-my-paper-understanding-the-process-of-human-ai-value-alignment-has-been-accepted-for-publication-in-the-journal-of-ai-research-jair",
           title: 'Excited to share that my paper “Understanding the Process of Human-AI Value Alignment”...',
