@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that my paper "Understanding the Process of Human-AI Value Alignment" has been accepted for publication in the Journal of AI Research (JAIR)!
+Excited to share that my paper 'Understanding the Process of Human-AI Value Alignment' has been accepted for publication in the Journal of AI Research (JAIR)!
