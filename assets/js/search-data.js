@@ -34,7 +34,7 @@ ninja.data = [{
           title: 'Presented my paper ‘Value Extraction from Policy Text with Large Language Models’ at...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-my-paper-understanding-the-process-of-human-ai-value-alignment-has-been-accepted-for-publication-in-the-journal-of-ai-research-jair",
-          title: 'Excited to share that my paper “Understanding the Process of Human-AI Value Alignment”...',
+          title: 'Excited to share that my paper ‘Understanding the Process of Human-AI Value Alignment’...',
           description: "",
           section: "News",},{id: "news-very-pleased-to-announce-that-i-have-submitted-my-phd-thesis-titled-cava-for-value-alignment-a-neuro-symbolic-framework-from-text-to-decisions",
           title: 'Very pleased to announce that I have submitted my PhD thesis, titled “CAVA...',
