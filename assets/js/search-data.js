@@ -42,6 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-successfully-passed-my-phd-viva-with-no-corrections",
           title: 'I have successfully passed my PhD viva with no corrections!',
           description: "",
+          section: "News",},{id: "news-my-paper-understanding-the-process-of-human-ai-value-alignment-has-been-published-in-the-journal-of-ai-research",
+          title: 'My paper ‘Understanding the Process of Human-AI Value Alignment’ has been published in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
