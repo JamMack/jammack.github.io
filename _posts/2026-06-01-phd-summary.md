@@ -50,7 +50,7 @@ This kind of challenge is what CAVA has been built to address.
   zoomable=true
 %}
 
-CAVA combines **neural** and **symbolic** AI to bridge unstructured policy text with structured decision-making. First, a large language model (LLM) scans text to identify relevant values, the stakeholders they apply to, and the actions or design choices that support them. Information from multiple documents can then be merged into concise value guidelines while preserving links back to the original sources.
+CAVA combines **neural** and **symbolic** AI to bridge unstructured policy text with structured decision-making. First, a framework built around a large language model scans text to identify relevant values, the stakeholders they apply to, and the actions or design choices that support them. Information from multiple documents can then be merged into concise value guidelines while preserving links back to the original sources.
 
 We represent this information as *CAVA models*: graphs connecting high-level values to actions and design choices for different stakeholders. For example, here is an excerpt from the law enforcement stakeholder CAVA model in our surveillance problem, which we generated during the PhD.
 
