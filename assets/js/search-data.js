@@ -378,17 +378,6 @@ ninja.data = [{
             window.location.href = "/blog/2015/images/";
           
         },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
       },{id: "news-presented-my-paper-value-extraction-from-policy-text-with-large-language-models-at-the-value-engineering-in-ai-workshop-vale-at-ecai-2025-in-bologna-italy",
           title: 'Presented my paper ‘Value Extraction from Policy Text with Large Language Models’ at...',
           description: "",
