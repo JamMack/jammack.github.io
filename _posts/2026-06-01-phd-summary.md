@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CAVA Made Simple
+title: CAVA in a Nutshell
 date: 2026-06-01 07:00:00
 description: Summarising my PhD in <1000 words
 tags: cava phd
