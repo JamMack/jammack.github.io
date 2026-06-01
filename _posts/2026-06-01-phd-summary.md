@@ -11,7 +11,7 @@ featured: true
 
 If you've looked into AI safety research, you've probably come across the term *value alignment* at some point. But what exactly does it mean to have "value-aligned" AI? And how do we get there? 
 
-These were the driving questions behind my PhD, **CAVA for Value Alignment: a Neuro-Symbolic Framework from Text to Decisions**, which I finished this year. Having finished the PhD this year and with a postdoc starting soon, I wanted a way to explain the research quickly and clearly for anyone interested. That's what this blog post is for. So, in 1000 words or less, let's look at what CAVA is.
+These were the driving questions behind my PhD, **CAVA for Value Alignment: a Neuro-Symbolic Framework from Text to Decisions**. Having finished the PhD this year and with a postdoc starting soon, I wanted a way to explain the research quickly and clearly for anyone interested. That's what this blog post is for. So, in 1000 words or less, let's look at what CAVA is.
 
 ## Why is Value Alignment so Important and Difficult?
 
