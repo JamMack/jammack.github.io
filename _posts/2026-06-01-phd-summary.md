@@ -3,9 +3,10 @@ layout: post
 title: CAVA Made Simple
 date: 2026-06-01 07:00:00
 description: Summarising my PhD in <1000 words
-tags: cava, phd
+tags: cava phd
 categories: posts
 thumbnail: ../assets/img/phd_summary_thumbnail.jpg
+featured: true
 ---
 
 If you've looked into AI safety research, you've probably come across the term *value alignment* at some point. But what exactly does it mean to have "value-aligned" AI? And how do we get there? 
