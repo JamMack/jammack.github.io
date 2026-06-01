@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-cava-in-a-nutshell",
+        
+          title: "CAVA in a Nutshell",
+        
+        description: "Summarising my PhD in &lt;1000 words",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/phd-summary/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
