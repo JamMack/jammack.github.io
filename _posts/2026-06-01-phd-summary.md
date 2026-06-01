@@ -58,6 +58,7 @@ We represent this information as *CAVA models*: graphs connecting high-level val
   path="assets/img/cava_law_enforcement.png" 
   class="img-fluid rounded z-depth-1" 
   caption="Excerpt of a CAVA model showing how values in the EU AI Act connect to design requirements for law enforcement use of AI surveillance." 
+  zoomable=true
 %}
 
 These models can be read by humans and machines alike. We can reason over these models using a symbolic argumentation framework that produces transparent, structured justifications for decisions.
