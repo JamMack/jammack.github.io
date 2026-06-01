@@ -5,7 +5,7 @@ date: 2026-06-01 16:00:00
 description: Summarising my PhD in <1000 words
 tags: CAVA, PhD
 categories: posts
-thumbnail: ../assets/img/phd_summary_thumbnail.jpg
+thumbnail: assets/img/phd_summary_thumbnail.jpg
 ---
 
 If you've looked into AI safety research, you've probably come across the term *value alignment* at some point. But what exactly does it mean to have "value-aligned" AI? And how do we get there? 
@@ -41,13 +41,13 @@ This kind of challenge is what CAVA has been built to address.
 
 **Contextual Argumentation for Value-based Assessment**, or **CAVA**, is my framework for translating policy guidelines and other texts into structured value representations that support reasoning by both humans and AI. 
 
-![CAVA pipeline from policy text through neural extraction and symbolic reasoning to design guidance and AI decision support.](../assets/img/cava_infographic.png, "CAVA pipeline: [P]olicy texts are processed by a neural extraction module to produce CAVA models, which are then used for symbolic reasoning to provide design guidance for humans and AI decision support.")
+![CAVA pipeline from policy text through neural extraction and symbolic reasoning to design guidance and AI decision support.](assets/img/CAVA_infographic.png, "CAVA pipeline: [P]olicy texts are processed by a neural extraction module to produce CAVA models, which are then used for symbolic reasoning to provide design guidance for humans and AI decision support.")
 
 CAVA combines **neural** and **symbolic** AI to bridge unstructured policy text with structured decision-making. First, a large language model (LLM) scans text to identify relevant values, the stakeholders they apply to, and the actions or design choices that support them. Information from multiple documents can then be merged into concise value guidelines while preserving links back to the original sources.
 
 We represent this information as *CAVA models*: graphs connecting high-level values to actions and design choices for different stakeholders. For example, here is an excerpt from the law enforcement stakeholder CAVA model in our surveillance problem, which we generated during the PhD.
 
-![Excerpt of a CAVA model linking higher-order values such as benevolence and security to more specific values and design requirements.](../assets/img/cava_law_enforcement.png, "Excerpt of a CAVA model showing how values in the EU AI Act connect to design requirements for law enforcement use of AI surveillance.")
+![Excerpt of a CAVA model linking higher-order values such as benevolence and security to more specific values and design requirements.](assets/img/cava_law_enforcement.png, "Excerpt of a CAVA model showing how values in the EU AI Act connect to design requirements for law enforcement use of AI surveillance.")
 
 These models can be read by humans and machines alike. We can reason over these models using a symbolic argumentation framework that produces transparent, structured justifications for decisions.
 
