@@ -46,7 +46,8 @@ This kind of challenge is what CAVA has been built to address.
   loading="eager" 
   path="assets/img/CAVA_infographic.png" 
   class="img-fluid rounded z-depth-1" 
-  caption="CAVA pipeline: Policy texts are processed by a neural extraction module to produce CAVA models, which are then used for symbolic reasoning to provide design guidance for humans and AI decision support." 
+  caption="CAVA pipeline: Policy texts are processed by a neural extraction module to produce CAVA models, which are then used for symbolic reasoning to provide design guidance for humans and AI decision support."
+  zoomable=true
 %}
 
 CAVA combines **neural** and **symbolic** AI to bridge unstructured policy text with structured decision-making. First, a large language model (LLM) scans text to identify relevant values, the stakeholders they apply to, and the actions or design choices that support them. Information from multiple documents can then be merged into concise value guidelines while preserving links back to the original sources.
