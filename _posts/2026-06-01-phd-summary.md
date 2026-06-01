@@ -73,4 +73,4 @@ In short, CAVA condenses key value information from complex documents into conci
 
 So there you have it, my PhD thesis in 1000 words or less. CAVA has been an epic journey for me in exploring different disciplines and approaches to AI, and finding out how they can fit together on the road to value alignment. While it's early days for CAVA as a value alignment tool, I'm excited to see how it develops going forwards.
 
-If I've piqued your interest, then be sure to check out my bibliography page for the CAVA research I published in my PhD.
+If I've piqued your interest, then be sure to check out my bibliography page for the CAVA research I published during my PhD for further reading.
