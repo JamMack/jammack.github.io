@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAVA in a Nutshell
-date: 2026-06-01 16:00:00
+date: 2026-06-01 07:00:00
 description: Summarising my PhD in <1000 words
 tags: cava
 categories: sample-posts
