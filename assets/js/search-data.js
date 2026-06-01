@@ -356,28 +356,6 @@ ninja.data = [{
             window.location.href = "/blog/2015/math/";
           
         },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
       },{id: "news-presented-my-paper-value-extraction-from-policy-text-with-large-language-models-at-the-value-engineering-in-ai-workshop-vale-at-ecai-2025-in-bologna-italy",
           title: 'Presented my paper ‘Value Extraction from Policy Text with Large Language Models’ at...',
           description: "",
