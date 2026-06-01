@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-cava-in-a-nutshell",
+        },{id: "post-cava-made-simple",
         
-          title: "CAVA in a Nutshell",
+          title: "CAVA Made Simple",
         
         description: "Summarising my PhD in &lt;1000 words",
         section: "Posts",
